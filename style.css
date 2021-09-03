@@ -1,0 +1,16 @@
+body{
+font-weight: normal; 
+font-size: 15pt;
+font-family: Arial;
+background-color: #FFDEAD;
+color: #000000;} 
+
+
+p{text-align:left; text-indent:1.5em;}
+p:first-letter{font-size: 24px; color: #FF0000;font-family: Arial;}
+
+a {color:#000;text-decoration:none; }
+a:link{color:#000;text-decoration:none;}
+a:visited{color:#551a8f;text-decoration:none;}
+a:hover{color:#FF0000;text-decoration:none;}
+a:active{color:#B22222;text-decoration:none;}
